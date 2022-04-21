@@ -1,17 +1,15 @@
 #! /bin/env/python
 
-import sys
-import time
 import argparse
 import logging
+import sys
+import time
 
 from collections import Counter
-from sacremoses import MosesTokenizer
 from itertools import chain
 
-from nltk.tokenize import sent_tokenize
+from nltk.tokenize import sent_tokenize, WordPunctTokenizer
 import nltk
-nltk.download('punkt')
 
 
 def parse_args():
@@ -28,6 +26,7 @@ def parse_args():
 
     return args
 
+
 def main():
 
     tic = time.time()
@@ -38,7 +37,7 @@ def main():
     logging.debug(args)
 
     if args.tokenize:
-        tokenizer = MosesTokenizer(lang=args.lang)
+        tokenizer = WordPunctTokenizer()
 
     if args.sent_tokenize:
         text = sys.stdin.read()
@@ -60,7 +59,7 @@ def main():
     counter = Counter(flat_tokens)
 
     # try to free up memory early
-
+    # nice :)
     del flat_tokens
 
     logging.debug("Vocabulary size before/after/max_allowed = %d/%d/%d" % (len(counter.keys()), min(args.vocab_size, len(counter.keys())), args.vocab_size))
@@ -81,6 +80,7 @@ def main():
     toc = time.time() - tic
 
     logging.debug("Time taken: %f seconds" % toc)
+    
 
 if __name__ == '__main__':
     main()
