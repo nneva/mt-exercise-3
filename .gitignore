@@ -130,8 +130,16 @@ dmypy.json
 
 # Exercise folders
 venvs/
-tools/
-data/
-models/
+moses-scripts/
 samples/
 logs/
+
+# Exercise files
+test.txt
+train.txt
+valid.txt
+.DS_Store
+tales.txt
+tales.cleaned.txt
+tales.preprocessed.txt
+
