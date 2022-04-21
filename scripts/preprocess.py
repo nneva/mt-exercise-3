@@ -18,9 +18,8 @@ def parse_args():
     parser.add_argument("--vocab-size", type=int, help="Size of vocabulary", required=True)
     parser.add_argument("--tokenize", action="store_true", help="Assume input strings are not tokenized yet.", required=False)
     parser.add_argument("--unk-string", type=str, help="String to use for out-of-vocabulary tokens.", default="<unk>", required=False)
-    parser.add_argument("--lang", type=str, help="Language code (important for --tokenize)", default="en", required=False)
     parser.add_argument("--sent-tokenize", action="store_true", help="Assume sentences span several lines.", required=False)
-    parser.add_argument("--language", type=str, help="Language full name (important for --sent-tokenize)", default="english")
+    parser.add_argument("--language", type=str, help="Language full name.", default="english")
 
     args = parser.parse_args()
 
