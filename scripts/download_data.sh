@@ -20,24 +20,24 @@ done
 
 # download a different interesting data set!
 
-mkdir -p $data/grimm
+mkdir -p $data/dorian
 
-mkdir -p $data/grimm/raw
+mkdir -p $data/dorian/raw
 
-wget https://www.gutenberg.org/files/52521/52521-0.txt
-mv 52521-0.txt $data/grimm/raw/tales.txt
+wget https://www.gutenberg.org/cache/epub/174/pg174.txt
+mv pg174.txt $data/dorian/raw/the_picture_of_dorian_gray.txt
 
 # preprocess slightly
 
-cat $data/grimm/raw/tales.txt | python $base/scripts/preprocess_raw.py > $data/grimm/raw/tales.cleaned.txt
+cat $data/dorian/raw/the_picture_of_dorian_gray.txt | python $base/scripts/preprocess_raw.py > $data/dorian/raw/the_picture_of_dorian_gray.cleaned.txt
 
 # tokenize, fix vocabulary upper bound
 
-cat $data/grimm/raw/tales.cleaned.txt | python $base/scripts/preprocess.py --vocab-size 5000 --tokenize --lang "en" --sent-tokenize > \
-    $data/grimm/raw/tales.preprocessed.txt
+cat $data/dorian/raw/the_picture_of_dorian_gray.cleaned.txt | python $base/scripts/preprocess.py --vocab-size 5000 --tokenize --language english --sent-tokenize > \
+    $data/dorian/raw/the_picture_of_dorian_gray.preprocessed.txt
 
 # split into train, valid and test
 
-head -n 440 $data/grimm/raw/tales.preprocessed.txt | tail -n 400 > $data/grimm/valid.txt
-head -n 840 $data/grimm/raw/tales.preprocessed.txt | tail -n 400 > $data/grimm/test.txt
-tail -n 3075 $data/grimm/raw/tales.preprocessed.txt | head -n 2955 > $data/grimm/train.txt
+head -n 353 $data/dorian/raw/the_picture_of_dorian_gray.preprocessed.txt | tail -n 329 > $data/dorian/valid.txt
+head -n 655 $data/dorian/raw/the_picture_of_dorian_gray.preprocessed.txt | tail -n 352 > $data/dorian/test.txt
+tail -n 4859 $data/dorian/raw/the_picture_of_dorian_gray.preprocessed.txt | head -n 4744 > $data/dorian/train.txt
