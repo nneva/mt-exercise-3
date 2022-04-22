@@ -4,8 +4,10 @@ scripts=`dirname "$0"`
 base=$scripts/..
 
 data=$base/data
+charts=$base/charts
 
 mkdir -p $data
+mkdir -p $charts
 
 tools=$base/tools
 
