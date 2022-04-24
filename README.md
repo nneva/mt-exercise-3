@@ -41,7 +41,7 @@ Please make sure to run this command outside of any virtual Python environment:
 
 🤸 **Train a model:**
 
-    bash ./scripts/train.sh | tee -a charts/output.txt
+    ./scripts/train.sh | tee -a infographic/output.txt
 
  - The training process can be interrupted at any time, and the best checkpoint will always be saved.
 
@@ -61,6 +61,13 @@ Please make sure to run this command outside of any virtual Python environment:
 
 - Other settings: `word embeddings size` and `number of hidden units per layer` are set to **250**.
 
+📈 **Graphical representation of the training results:**
+
+For graphical representation of the training results run following command:
+
+    python scripts/get_infographic.py --input-file  infographic/output.txt --save-charts infographic/charts --save-tables infographic/tables 
+
+- **Note:** This is a working version, so make sure to run edited `./scripts/install_packages.sh` and `./scripts/download_data.sh` before executing this command.
 
 Generate (sample) some text from a trained model with:
 
