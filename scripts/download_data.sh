@@ -4,10 +4,15 @@ scripts=`dirname "$0"`
 base=$scripts/..
 
 data=$base/data
-charts=$base/charts
+infographic=$base/infographic
 
 mkdir -p $data
-mkdir -p $charts
+mkdir -p $infographic
+
+mkdir -p $infographic/charts
+mkdir -p $infographic/tables
+
+
 
 tools=$base/tools
 
@@ -40,6 +45,6 @@ cat $data/dorian/raw/the_picture_of_dorian_gray.cleaned.txt | python $base/scrip
 
 # split into train, valid and test
 
-head -n 353 $data/dorian/raw/the_picture_of_dorian_gray.preprocessed.txt | tail -n 329 > $data/dorian/valid.txt
-head -n 655 $data/dorian/raw/the_picture_of_dorian_gray.preprocessed.txt | tail -n 352 > $data/dorian/test.txt
-tail -n 4859 $data/dorian/raw/the_picture_of_dorian_gray.preprocessed.txt | head -n 4744 > $data/dorian/train.txt
+head -n 353 $data/dorian/raw/the_picture_of_dorian_gray.preprocessed.txt | tail -n 346 > $data/dorian/valid.txt
+head -n 695 $data/dorian/raw/the_picture_of_dorian_gray.preprocessed.txt | tail -n 342 > $data/dorian/test.txt
+tail -n 4830 $data/dorian/raw/the_picture_of_dorian_gray.preprocessed.txt | head -n 4715 > $data/dorian/train.txt
