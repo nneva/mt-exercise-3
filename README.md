@@ -93,6 +93,8 @@ For graphical representation of the training results run a following command:
 
 - Argument `--input` is optional.
 
+- Lines modified: 30 and 31, and from 56 to 142.
+
 
               
 
