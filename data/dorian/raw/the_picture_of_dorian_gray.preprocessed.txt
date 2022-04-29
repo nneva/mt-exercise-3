@@ -3,26 +3,7 @@ You may copy it , give it away or re - use it under the terms of the Project Gut
 If you are not located in the United States , you will have to check the laws of the country where you are located before using this eBook .
 Title : The Picture of Dorian Gray Author : Oscar Wilde Release Date : October , 1994 [ eBook # 174 ] [ Most recently updated : February 3 , 2022 ] Language : English Produced by : Judith Boss .
 HTML version by Al Haines .
-*** START OF THE PROJECT GUTENBERG EBOOK THE PICTURE OF DORIAN GRAY *** The Picture of Dorian Gray by Oscar Wilde Contents THE PREFACE CHAPTER I .
-CHAPTER II .
-CHAPTER III .
-CHAPTER IV .
-CHAPTER V . CHAPTER VI .
-CHAPTER VII .
-CHAPTER VIII .
-CHAPTER IX .
-CHAPTER X .
-CHAPTER XI .
-CHAPTER XII .
-CHAPTER XIII .
-CHAPTER XIV .
-CHAPTER XV .
-CHAPTER XVI .
-CHAPTER XVII .
-CHAPTER XVIII .
-CHAPTER XIX .
-CHAPTER XX .
-THE PREFACE The artist is the creator of beautiful things .
+*** START OF THE PROJECT GUTENBERG EBOOK THE PICTURE OF DORIAN GRAY *** The Picture of Dorian Gray by Oscar Wilde Contents THE PREFACE THE PREFACE The artist is the creator of beautiful things .
 To reveal art and conceal the artist is art ’ s aim .
 The critic is he who can translate into another manner or a new material his impression of beautiful things .
 The highest as the lowest form of criticism is a mode of autobiography .
@@ -56,8 +37,7 @@ When critics disagree , the artist is in accord with himself .
 We can forgive a man for making a useful thing as long as he does not admire it .
 The only excuse for making a useless thing is that one admires it intensely .
 All art is quite useless .
-OSCAR WILDE CHAPTER I .
-The studio was filled with the rich odour of roses , and when the light summer wind stirred amidst the trees of the garden , there came through the open door the heavy scent of the lilac , or the more delicate perfume of the pink - flowering thorn .
+OSCAR WILDE The studio was filled with the rich odour of roses , and when the light summer wind stirred amidst the trees of the garden , there came through the open door the heavy scent of the lilac , or the more delicate perfume of the pink - flowering thorn .
 From the corner of the divan of Persian saddle - bags on which he was lying , smoking , as was his custom , innumerable cigarettes , Lord Henry Wotton could just catch the gleam of the honey - sweet and honey - coloured blossoms of a laburnum , whose tremulous branches seemed hardly able to bear the burden of a beauty so flamelike as theirs ; and now and then the fantastic shadows of birds in flight flitted across the long tussore - silk curtains that were stretched in front of the huge window , producing a kind of momentary Japanese effect , and making him think of those pallid , jade - faced painters of Tokyo who , through the medium of an art that is necessarily immobile , seek to convey the sense of swiftness and motion .
 The sullen murmur of the bees shouldering their way through the long unmown grass , or circling with monotonous insistence round the dusty gilt horns of the straggling woodbine , seemed to make the stillness more oppressive .
 The dim roar of London was like the bourdon note of a distant organ .
@@ -340,7 +320,6 @@ The world is wide , and has many marvellous people in it .
 Don ’ t take away from me the one person who gives to my art whatever charm it possesses : my life as an artist depends on him .
 Mind , Harry , I trust you .” He spoke very slowly , and the words seemed wrung out of him almost against his will .
 “ What nonsense you talk !” said Lord Henry , smiling , and taking Hallward by the arm , he almost led him into the house .
-CHAPTER II .
 As they entered they saw Dorian Gray .
 He was seated at the piano , with his back to them , turning over the pages of a volume of Schumann ’ s “ Forest Scenes .” “ You must lend me these , Basil ,” he cried .
 “ I want to learn them .
@@ -735,7 +714,6 @@ Come to - morrow .” “ Certainly .” “ You won ’ t forget ?” “ No , 
 “ Come , Mr . Gray , my hansom is outside , and I can drop you at your own place .
 Good - bye , Basil .
 It has been a most interesting afternoon .” As the door closed behind them , the painter flung himself down on a sofa , and a look of pain came into his face .
-CHAPTER III .
 At half - past twelve next day Lord Henry Wotton strolled from Curzon Street over to the Albany to call on his uncle , Lord Fermor , a genial if somewhat rough - mannered old bachelor , whom the outside world called selfish because it derived no particular benefit from him , but who was considered generous by Society as he fed the people who amused him .
 His father had been our ambassador at Madrid when Isabella was young and Prim unthought of , but had retired from the diplomatic service in a capricious moment of annoyance on not being offered the Embassy at Paris , a post to which he considered that he was fully entitled by reason of his birth , his indolence , the good English of his dispatches , and his inordinate passion for pleasure .
 The son , who had been his father ’ s secretary , had resigned along with his chief , somewhat foolishly as was thought at the time , and on succeeding some months later to the title , had set himself to the serious study of the great aristocratic art of doing absolutely nothing .
@@ -1029,8 +1007,7 @@ And you will promise to talk to me all the time ?
 No one talks so wonderfully as you do .” “ Ah !
 I have talked quite enough for to - day ,” said Lord Henry , smiling .
 “ All I want now is to look at life .
-You may come and look at it with me , if you care to .” CHAPTER IV .
-One afternoon , a month later , Dorian Gray was reclining in a luxurious arm - chair , in the little library of Lord Henry ’ s house in Mayfair .
+You may come and look at it with me , if you care to .” One afternoon , a month later , Dorian Gray was reclining in a luxurious arm - chair , in the little library of Lord Henry ’ s house in Mayfair .
 It was , in its way , a very charming room , with its high panelled wainscoting of olive - stained oak , its cream - coloured frieze and ceiling of raised plasterwork , and its brickdust felt carpet strewn with silk , long - fringed Persian rugs .
 On a tiny satinwood table stood a statuette by Clodion , and beside it lay a copy of Les Cent Nouvelles , bound for Margaret of Valois by Clovis Eve and powdered with the gilt daisies that Queen had selected for her device .
 Some large blue china jars and parrot - tulips were ranged on the mantelshelf , and through the small leaded panes of the window streamed the apricot - coloured light of a summer day in London .
@@ -1406,7 +1383,7 @@ He thought of his friend ’ s young fiery - coloured life and wondered how it w
 When he arrived home , about half - past twelve o ’ clock , he saw a telegram lying on the hall table .
 He opened it and found it was from Dorian Gray .
 It was to tell him that he was engaged to be married to Sibyl Vane .
-CHAPTER V . “ Mother , Mother , I am so happy !” whispered the girl , burying her face in the lap of the faded , tired - looking woman who , with back turned to the shrill intrusive light , was sitting in the one arm - chair that their dingy sitting - room contained .
+“ Mother , Mother , I am so happy !” whispered the girl , burying her face in the lap of the faded , tired - looking woman who , with back turned to the shrill intrusive light , was sitting in the one arm - chair that their dingy sitting - room contained .
 “ I am so happy !” she repeated , “ and you must be happy , too !” Mrs . Vane winced and put her thin , bismuth - whitened hands on her daughter ’ s head .
 “ Happy !” she echoed , “ I am only happy , Sibyl , when I see you act .
 You must not think of anything but your acting .
@@ -1664,25 +1641,25 @@ Suddenly she caught a glimpse of golden hair and laughing lips , and in an open 
 She started to her feet .
 “ There he is !” she cried .
 “ Who ?” said Jim Vane .
-“ Prince Charming ,” she answered , looking after the <unk> .
-He jumped up and seized her <unk> by the arm .
-“ <unk> him to me .
+“ Prince Charming ,” she answered , looking after the victoria .
+He jumped up and seized her roughly by the arm .
+“ Show him to me .
 Which is he ?
-<unk> him out .
+Point him out .
 I must see him !” he exclaimed ; but at that moment the Duke of Berwick ’ s four - in - hand came between , and when it had left the space clear , the carriage had swept out of the park .
 “ He is gone ,” murmured Sibyl sadly .
 “ I wish you had seen him .” “ I wish I had , for as sure as there is a God in heaven , if he ever does you any wrong , I shall kill him .” She looked at him in horror .
 He repeated his words .
 They cut the air like a dagger .
 The people round began to gape .
-A lady standing close to her <unk> .
+A lady standing close to her tittered .
 “ Come away , Jim ; come away ,” she whispered .
-He followed her <unk> as she passed through the crowd .
+He followed her doggedly as she passed through the crowd .
 He felt glad at what he had said .
-When they reached the <unk> <unk> , she turned round .
+When they reached the Achilles Statue , she turned round .
 There was pity in her eyes that became laughter on her lips .
 She shook her head at him .
-“ You are foolish , Jim , <unk> foolish ; a bad - tempered boy , that is all .
+“ You are foolish , Jim , utterly foolish ; a bad - tempered boy , that is all .
 How can you say such horrible things ?
 You don ’ t know what you are talking about .
 You are simply jealous and unkind .
@@ -1692,16 +1669,16 @@ Love makes people good , and what you said was wicked .” “ I am sixteen ,”
 Mother is no help to you .
 She doesn ’ t understand how to look after you .
 I wish now that I was not going to Australia at all .
-I have a great mind to <unk> the whole thing up .
-I would , if my <unk> hadn ’ t been <unk> .” “ Oh , don ’ t be so serious , Jim .
-You are like one of the <unk> of those silly <unk> Mother used to be so fond of acting in .
+I have a great mind to chuck the whole thing up .
+I would , if my articles hadn ’ t been signed .” “ Oh , don ’ t be so serious , Jim .
+You are like one of the heroes of those silly melodramas Mother used to be so fond of acting in .
 I am not going to quarrel with you .
 I have seen him , and oh !
 to see him is perfect happiness .
 We won ’ t quarrel .
 I know you would never harm any one I love , would you ?” “ Not as long as you love him , I suppose ,” was the sullen answer .
 “ I shall love him for ever !” she cried .
-“ And he ?” “ For ever , too !” “ He had better .” She <unk> from him .
+“ And he ?” “ For ever , too !” “ He had better .” She shrank from him .
 Then she laughed and put her hand on his arm .
 He was merely a boy .
 At the Marble Arch they hailed an omnibus , which left them close to their shabby home in the Euston Road .
@@ -1710,8 +1687,8 @@ Jim insisted that she should do so .
 He said that he would sooner part with her when their mother was not present .
 She would be sure to make a scene , and he detested scenes of every kind .
 In Sybil ’ s own room they parted .
-There was jealousy in the lad ’ s heart , and a <unk> <unk> hatred of the stranger who , as it seemed to him , had come between them .
-Yet , when her arms were flung round his neck , and her fingers <unk> through his hair , he <unk> and kissed her with real affection .
+There was jealousy in the lad ’ s heart , and a fierce murderous hatred of the stranger who , as it seemed to him , had come between them .
+Yet , when her arms were flung round his neck , and her fingers strayed through his hair , he <unk> and kissed her with real affection .
 There were tears in his eyes as he went downstairs .
 His mother was waiting for him below .
 She grumbled at his <unk> , as he entered .
@@ -1778,7 +1755,6 @@ It had pleased her .
 Of the threat she said nothing .
 It was <unk> and <unk> expressed .
 She felt that they would all laugh at it some day .
-CHAPTER VI .
 “ I suppose you have heard the news , Basil ?” said Lord Henry that evening as Hallward was shown into a little private room at the Bristol where dinner had been laid for three .
 “ No , Harry ,” answered the artist , giving his hat and coat to the bowing waiter .
 “ What is it ?
@@ -1978,7 +1954,6 @@ A strange sense of loss came over him .
 He felt that Dorian Gray would never again be to him all that he had been in the past .
 Life had come between them .... His eyes darkened , and the crowded flaring streets became blurred to his eyes .
 When the cab drew up at the theatre , it seemed to him that he had grown years older .
-CHAPTER VII .
 For some reason or other , the house was crowded that night , and the fat Jew manager who met them at the door was <unk> from ear to ear with an <unk> tremulous smile .
 He <unk> them to their box with a sort of <unk> <unk> , waving his fat jewelled hands and talking at the top of his voice .
 Dorian Gray loathed him more than ever .
@@ -2346,7 +2321,6 @@ He thought only of Sibyl .
 A faint echo of his love came back to him .
 He repeated her name over and over again .
 The birds that were singing in the dew - <unk> garden seemed to be telling the flowers about her .
-CHAPTER VIII .
 It was long past <unk> when he <unk> .
 His valet had crept several times on <unk> into the room to see if he was stirring , and had wondered what made his young master sleep so late .
 Finally his bell sounded , and Victor came in softly with a cup of tea , and a pile of letters , on a small tray of old <unk> china , and drew back the olive - satin curtains , with their <unk> blue <unk> , that hung in front of the three tall windows .
@@ -2735,7 +2709,6 @@ He would be safe .
 That was everything .
 He drew the screen back into its <unk> place in front of the picture , smiling as he did so , and passed into his bedroom , where his valet was already waiting for him .
 An hour later he was at the opera , and Lord Henry was leaning over his chair .
-CHAPTER IX .
 As he was sitting at breakfast next morning , Basil Hallward was shown into the room .
 “ I am so glad I have found you , Dorian ,” he said gravely .
 “ I called last night , and they told me you were at the opera .
@@ -3035,7 +3008,6 @@ He sighed and touched the bell .
 The portrait must be hidden away at all costs .
 He could not run such a risk of discovery again .
 It had been mad of him to have allowed the thing to remain , even for an hour , in a room to which any of his friends had access .
-CHAPTER X .
 When his servant entered , he looked at him steadfastly and wondered if he had thought of peering behind the screen .
 The man was quite <unk> and waited for his orders .
 Dorian lit a cigarette and walked over to the glass and glanced into it .
@@ -3235,7 +3207,6 @@ That book you sent me so fascinated me that I forgot how the time was going .”
 I said it fascinated me .
 There is a great difference .” “ Ah , you have discovered that ?” murmured Lord Henry .
 And they passed into the dining - room .
-CHAPTER XI .
 For years , Dorian Gray could not free himself from the influence of this book .
 Or perhaps it would be more <unk> to say that he never sought to free himself from it .
 He procured from Paris no less than nine large - paper copies of the first edition , and had them bound in different colours , so that they might suit his various moods and the changing fancies of a nature over which he seemed , at times , to have almost entirely lost control .
@@ -3332,11 +3303,11 @@ In <unk> ’ s strange romance ‘ A <unk> of America ’, it was <unk> that in 
 A sea - monster had been enamoured of the pearl that the <unk> brought to King <unk> , and had slain the thief , and <unk> for seven <unk> over its loss .
 When the <unk> lured the king into the great pit , he flung it away — <unk> tells the story — nor was it ever found again , though the <unk> <unk> offered five hundred - <unk> of gold pieces for it .
 The King of <unk> had shown to a certain Venetian a <unk> of three hundred and four pearls , one for every god that he worshipped .
-When the Duke de <unk> , son of Alexander VI ., <unk> Louis XII .
+When the Duke de <unk> , son of Alexander VI ., <unk> Louis <unk> .
 of France , his horse was <unk> with gold leaves , according to <unk> , and his cap had double rows of rubies that threw out a great light .
 Charles of England had <unk> in <unk> hung with four hundred and twenty - one diamonds .
 <unk> II had a coat , valued at thirty thousand marks , which was covered with <unk> rubies .
-<unk> described Henry VIII ., on his way to the <unk> previous to his coronation , as wearing “ a <unk> of raised gold , the <unk> embroidered with diamonds and other rich stones , and a great <unk> about his neck of large <unk> .” The favourites of James I wore ear - rings of emeralds set in gold <unk> .
+<unk> described Henry <unk> ., on his way to the <unk> previous to his coronation , as wearing “ a <unk> of raised gold , the <unk> embroidered with diamonds and other rich stones , and a great <unk> about his neck of large <unk> .” The favourites of James I wore ear - rings of emeralds set in gold <unk> .
 <unk> II gave to <unk> <unk> a suit of red - gold armour studded with <unk> , a collar of gold roses set with turquoise - stones , and a skull - cap <unk> with pearls .
 Henry II .
 wore jewelled gloves reaching to the elbow , and had a hawk - glove <unk> with twelve rubies and fifty - two great <unk> .
@@ -3356,7 +3327,7 @@ Where the huge <unk> that Nero had stretched across the <unk> at Rome , that Tit
 He longed to see the curious table - <unk> wrought for the Priest of the Sun , on which were displayed all the <unk> and <unk> that could be wanted for a feast ; the <unk> cloth of King <unk> , with its three hundred golden bees ; the fantastic <unk> that excited the indignation of the <unk> of <unk> and were figured with “ lions , <unk> , <unk> , dogs , <unk> , <unk> , <unk> — all , in fact , that a painter can copy from nature ”; and the coat that Charles of Orleans once wore , on the sleeves of which were embroidered the verses of a song beginning “ <unk> , <unk> <unk> <unk> <unk> ,” the musical <unk> of the words being wrought in gold thread , and each note , of square shape in those days , <unk> with four pearls .
 He read of the room that was <unk> at the palace at <unk> for the use of Queen <unk> of Burgundy and was decorated with “ <unk> hundred and twenty - one <unk> , made in <unk> , and <unk> with the king ’ s arms , and five hundred and sixty - one butterflies , whose wings were <unk> <unk> with the arms of the queen , the whole worked in gold .” <unk> de <unk> had a mourning - bed made for her of black velvet powdered with <unk> and <unk> .
 Its curtains were of damask , with <unk> wreaths and <unk> , figured upon a gold and silver ground , and fringed along the edges with <unk> of pearls , and it stood in a room hung with rows of the queen ’ s <unk> in cut black velvet upon cloth of silver .
-Louis XIV .
+Louis <unk> .
 had gold embroidered <unk> fifteen feet high in his <unk> .
 The state bed of <unk> , King of <unk> , was made of Smyrna gold brocade embroidered in turquoises with verses from the <unk> .
 Its <unk> were of silver gilt , <unk> chased , and <unk> set with enamelled and jewelled medallions .
@@ -3456,13 +3427,12 @@ He felt that he had known them all , those strange terrible figures that had pas
 It seemed to him that in some mysterious way their lives had been his own .
 The hero of the wonderful novel that had so influenced his life had himself known this curious fancy .
 In the <unk> chapter he tells how , crowned with laurel , lest lightning might strike him , he had sat , as <unk> , in a garden at <unk> , reading the shameful books of <unk> , while <unk> and peacocks <unk> round him and the flute - player mocked the <unk> of the <unk> ; and , as <unk> , had <unk> with the green - shirted <unk> in their stables and <unk> in an ivory <unk> with a jewel - <unk> horse ; and , as <unk> , had wandered through a <unk> lined with marble mirrors , looking round with haggard eyes for the reflection of the dagger that was to end his days , and sick with that <unk> , that terrible <unk> <unk> , that comes on those to whom life <unk> nothing ; and had peered through a clear emerald at the red <unk> of the <unk> and then , in a litter of pearl and purple drawn by silver - <unk> <unk> , been carried through the Street of <unk> to a House of Gold and heard men cry on Nero <unk> as he passed by ; and , as <unk> , had painted his face with colours , and <unk> the <unk> among the women , and brought the <unk> from <unk> and given her in mystic marriage to the Sun .
-Over and over again Dorian used to read this fantastic chapter , and the two <unk> immediately following , in which , as in some curious tapestries or <unk> wrought <unk> , were pictured the awful and beautiful forms of those whom vice and blood and <unk> had made monstrous or mad : <unk> , Duke of <unk> , who slew his wife and painted her lips with a scarlet poison that her lover might <unk> death from the dead thing he <unk> ; Pietro <unk> , the Venetian , known as <unk> the <unk> , who sought in his vanity to <unk> the title of <unk> , and whose <unk> , valued at two hundred thousand <unk> , was bought at the price of a terrible sin ; <unk> <unk> <unk> , who used <unk> to chase living men and whose murdered body was covered with roses by a <unk> who had loved him ; the <unk> on his white horse , with <unk> riding beside him and his <unk> stained with the blood of <unk> ; Pietro <unk> , the young <unk> <unk> of <unk> , child and <unk> of <unk> IV ., whose beauty was <unk> only by his debauchery , and who received <unk> of <unk> in a <unk> of white and crimson silk , filled with <unk> and <unk> , and gilded a boy that he might serve at the feast as <unk> or <unk> ; <unk> , whose melancholy could be <unk> only by the spectacle of death , and who had a passion for red blood , as other men have for red wine — the son of the <unk> , as was reported , and one who had <unk> his father at <unk> when <unk> with him for his own soul ; <unk> <unk> , who in mockery took the name of Innocent and into whose <unk> veins the blood of three <unk> was <unk> by a <unk> doctor ; <unk> <unk> , the lover of <unk> and the lord of <unk> , whose <unk> was burned at Rome as the enemy of God and man , who strangled <unk> with a napkin , and gave poison to <unk> d ’ <unk> in a cup of emerald , and in honour of a shameful passion built a <unk> church for Christian worship ; Charles VI ., who had so wildly adored his brother ’ s wife that a <unk> had <unk> him of the <unk> that was coming on him , and who , when his brain had sickened and grown strange , could only be <unk> by <unk> cards painted with the images of love and death and madness ; and , in his <unk> jerkin and jewelled cap and <unk> curls , <unk> <unk> , who slew <unk> with his <unk> , and <unk> with his page , and whose <unk> was such that , as he lay dying in the yellow piazza of <unk> , those who had hated him could not choose but weep , and <unk> , who had cursed him , <unk> him .
+Over and over again Dorian used to read this fantastic chapter , and the two <unk> immediately following , in which , as in some curious tapestries or <unk> wrought <unk> , were pictured the awful and beautiful forms of those whom vice and blood and <unk> had made monstrous or mad : <unk> , Duke of <unk> , who slew his wife and painted her lips with a scarlet poison that her lover might <unk> death from the dead thing he <unk> ; Pietro <unk> , the Venetian , known as <unk> the <unk> , who sought in his vanity to <unk> the title of <unk> , and whose <unk> , valued at two hundred thousand <unk> , was bought at the price of a terrible sin ; <unk> <unk> <unk> , who used <unk> to chase living men and whose murdered body was covered with roses by a <unk> who had loved him ; the <unk> on his white horse , with <unk> riding beside him and his <unk> stained with the blood of <unk> ; Pietro <unk> , the young <unk> <unk> of <unk> , child and <unk> of <unk> <unk> ., whose beauty was <unk> only by his debauchery , and who received <unk> of <unk> in a <unk> of white and crimson silk , filled with <unk> and <unk> , and gilded a boy that he might serve at the feast as <unk> or <unk> ; <unk> , whose melancholy could be <unk> only by the spectacle of death , and who had a passion for red blood , as other men have for red wine — the son of the <unk> , as was reported , and one who had <unk> his father at <unk> when <unk> with him for his own soul ; <unk> <unk> , who in mockery took the name of Innocent and into whose <unk> veins the blood of three <unk> was <unk> by a <unk> doctor ; <unk> <unk> , the lover of <unk> and the lord of <unk> , whose <unk> was burned at Rome as the enemy of God and man , who strangled <unk> with a napkin , and gave poison to <unk> d ’ <unk> in a cup of emerald , and in honour of a shameful passion built a <unk> church for Christian worship ; Charles VI ., who had so wildly adored his brother ’ s wife that a <unk> had <unk> him of the <unk> that was coming on him , and who , when his brain had sickened and grown strange , could only be <unk> by <unk> cards painted with the images of love and death and madness ; and , in his <unk> jerkin and jewelled cap and <unk> curls , <unk> <unk> , who slew <unk> with his <unk> , and <unk> with his page , and whose <unk> was such that , as he lay dying in the yellow piazza of <unk> , those who had hated him could not choose but weep , and <unk> , who had cursed him , <unk> him .
 There was a horrible fascination in them all .
 He saw them at night , and they troubled his imagination in the day .
 The Renaissance knew of strange manners of poisoning — poisoning by a <unk> and a lighted <unk> , by an embroidered glove and a jewelled fan , by a gilded <unk> and by an amber chain .
 Dorian Gray had been poisoned by a book .
 There were moments when he looked on evil simply as a mode through which he could realize his conception of the beautiful .
-CHAPTER XII .
 It was on the ninth of November , the <unk> of his own thirty - <unk> <unk> , as he often remembered afterwards .
 He was walking home about eleven o ’ clock from Lord Henry ’ s , where he had been dining , and was wrapped in heavy <unk> , as the night was cold and <unk> .
 At the corner of Grosvenor Square and South Audley Street , a man passed him in the mist , walking very fast and with the collar of his grey ulster turned up .
@@ -3681,8 +3651,7 @@ I can go to - morrow .
 But don ’ t ask me to read anything to - night .
 All I want is a plain answer to my question .” “ That shall be given to you upstairs .
 I could not give it here .
-You will not have to read long .” CHAPTER XIII .
-He passed out of the room and began the ascent , Basil Hallward following close behind .
+You will not have to read long .” He passed out of the room and began the ascent , Basil Hallward following close behind .
 They walked softly , as men do instinctively at night .
 The lamp cast fantastic shadows on the wall and staircase .
 A rising wind made some of the windows rattle .
@@ -3879,7 +3848,6 @@ Dorian Gray threw his hat and coat upon the table and passed into the library .
 For a quarter of an hour he walked up and down the room , biting his lip and thinking .
 Then he took down the Blue Book from one of the shelves and began to turn over the leaves .
 “ Alan Campbell , 152 , Hertford Street , Mayfair .” Yes ; that was the man he wanted .
-CHAPTER XIV .
 At nine o ’ clock the next morning his servant came in with a cup of chocolate on a tray and opened the <unk> .
 Dorian was sleeping quite <unk> , lying on his right side , with one hand <unk> his cheek .
 He looked like a boy who had been tired out with play , or study .
@@ -4191,7 +4159,6 @@ I cannot forget that ,” said Dorian simply .
 As soon as Campbell had left , he went upstairs .
 There was a horrible smell of <unk> acid in the room .
 But the thing that had been sitting at the table was gone .
-CHAPTER XV .
 That evening , at eight - thirty , exquisitely dressed and wearing a large button - hole of <unk> violets , Dorian Gray was <unk> into Lady Narborough ’ s drawing - room by bowing servants .
 His forehead was throbbing with <unk> nerves , and he felt wildly excited , but his manner as he <unk> over his hostess ’ s hand was as easy and graceful as ever .
 Perhaps one never seems so much at one ’ s ease as when one has to play a part .
@@ -4393,7 +4360,6 @@ The man shook his head .
 “ It is too far for me ,” he muttered .
 “ Here is a <unk> for you ,” said Dorian .
 “ You shall have another if you drive fast .” “ All right , sir ,” answered the man , “ you will be there in an hour ,” and after his fare had got in he turned his horse round and drove rapidly towards the <unk> .
-CHAPTER XVI .
 A cold rain began to fall , and the blurred street - lamps looked ghastly in the dripping mist .
 The public - houses were just closing , and dim men and women were clustering in broken groups round their doors .
 From some of the bars came the sound of horrible laughter .
@@ -4616,7 +4582,6 @@ I have , though ,” she added , with a sickly <unk> .
 “ But don ’ t give me away to him ,” she <unk> ; “ I am afraid of him .
 Let me have some money for my night ’ s lodging .” He broke from her with an oath and rushed to the corner of the street , but Dorian Gray had <unk> .
 When he looked back , the woman had vanished also .
-CHAPTER XVII .
 A week later Dorian Gray was sitting in the conservatory at Selby Royal , talking to the pretty Duchess of Monmouth , who with her husband , a <unk> - looking man of sixty , was amongst his guests .
 It was tea - time , and the mellow light of the huge , lace - covered lamp that stood on the table lit up the delicate china and <unk> silver of the service at which the duchess was <unk> .
 Her white hands were moving <unk> among the cups , and her full red lips were smiling at something that Dorian had whispered to her .
@@ -4738,7 +4703,6 @@ I will take your place .” “ No , I will come down ,” he said , <unk> to hi
 “ I would rather come down .
 I must not be alone .” He went to his room and dressed .
 There was a wild <unk> of <unk> in his manner as he sat at table , but now and then a thrill of terror ran through him when he remembered that , pressed against the window of the conservatory , like a white handkerchief , he had seen the face of James Vane watching him .
-CHAPTER XVIII .
 The next day he did not leave the house , and , indeed , spent most of the time in his own room , sick with a wild terror of dying , and yet indifferent to life itself .
 The consciousness of being hunted , <unk> , <unk> down , had begun to dominate him .
 If the tapestry did but tremble in the wind , he shook .
@@ -4996,7 +4960,6 @@ A cry of joy broke from his lips .
 The man who had been shot in the thicket was James Vane .
 He stood there for some minutes looking at the dead body .
 As he rode home , his eyes were full of tears , for he knew he was safe .
-CHAPTER XIX .
 “ There is no use your telling me that you are going to be good ,” cried Lord Henry , <unk> his white fingers into a red copper bowl filled with rose - water .
 “ You are quite perfect .
 Pray , don ’ t change .” Dorian Gray shook his head .
@@ -5284,7 +5247,6 @@ I don ’ t think there have been such <unk> since the year I met you .” “ V
 I shall be here at eleven ,” said Dorian .
 “ Good night , Harry .” As he reached the door , he hesitated for a moment , as if he had something more to say .
 Then he sighed and went out .
-CHAPTER XX .
 It was a lovely night , so warm that he threw his coat over his arm and did not even put his silk scarf round his throat .
 As he strolled home , smoking his cigarette , two young men in evening dress passed him .
 He heard one of them whisper to the other , “ That is Dorian Gray .” He remembered how pleased he used to be when he was pointed out , or stared at , or talked about .
