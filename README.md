@@ -15,7 +15,7 @@ This repository shows how to train Neural Language Models using [Pytorch example
 
 🧑‍🤝‍🧑 **Clone this repository in the desired place:**
 
-    git clone https://github.com/nneva/mt-exercise-3.git
+    git clone https://github.com/nneva/mt-exercise-3
     cd mt-exercise-3
 
 💻 **Create a new virtualenv that uses Python 3.** 
@@ -83,7 +83,7 @@ For graphical representation of the training results run a following command:
 
 🧑‍🤝‍🧑 **Clone repository `pytorch/examples`:**
 
-    https://github.com/nneva/examples.git
+    git clone https://github.com/nneva/examples
 
 - **Important:** Place cloned reposotory in the directory `mt-exercise-3`.
 
