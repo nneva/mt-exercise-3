@@ -131,13 +131,10 @@ dmypy.json
 # Exercise folders
 venvs/
 moses-scripts/
-samples/
 logs/
+.vscode/
 
 # Exercise files
-test.txt
-train.txt
-valid.txt
 .DS_Store
 tales.txt
 tales.cleaned.txt
