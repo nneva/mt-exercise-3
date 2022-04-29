@@ -30,7 +30,7 @@ Please make sure to run this command outside of any virtual Python environment:
 
     ./scripts/install_packages.sh
 
-If needed, run once a following download in `preprocess.py`**
+If needed, run once a following download in `preprocess.py`
 
     nltk.download('punkt')
 
