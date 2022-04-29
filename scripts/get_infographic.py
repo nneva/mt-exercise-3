@@ -37,11 +37,11 @@ def get_data_frame(dropout: List[str], epochs:List[str], ppl: Tuple[str, List[st
     idx = 0
     df = pd.DataFrame(columns= [ppl[0]] + ["Dropout" + " " + do for do in dropout])
 
-    if len(ppl[1]) == 276:
+    if len(ppl[1]) == 240:
         df[ppl[0]] = pd.Series(epochs)
         for do in dropout:
-            df["Dropout" + " " + do] = pd.Series(ppl[1][idx:idx + 46])
-            idx += 46
+            df["Dropout" + " " + do] = pd.Series(ppl[1][idx:idx + 40])
+            idx += 40
     else:
         df.loc[""] = ["End of training"] + ppl[1]
 
@@ -59,7 +59,7 @@ def save_charts(chart:str, table: pd.DataFrame, ppl: str):
 def main():
 
     dropout = ["0.0", "0.175", "0.35", "0.525", "0.7", "0.875"]
-    epochs = ["epoch " + str(idx) for idx in range(1, 47)]
+    epochs = ["epoch " + str(idx) for idx in range(1, 41)]
 
     args = parse_args()
 
@@ -73,7 +73,7 @@ def main():
     for ppl in ppls:
         table = get_data_frame(dropout, epochs, ppl)
         table.to_markdown(tab + "/{}.md".format(ppl[0].lower().replace(" ", "_")), index=False)
-        if len(ppl[1]) == 276:
+        if len(ppl[1]) == 240:
             save_charts(chart, table, ppl)
 
     print("\033[92m" + "Charts and tables are in directories infographic/charts and infographic/tables." + "\033[0m")
