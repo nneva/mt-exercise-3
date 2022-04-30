@@ -73,7 +73,7 @@ For graphical representation of the training results run a following command:
 
     ./scripts/visualize.sh
 
-- Exact location of the generated tables and graphs will be printed out into the terminal.
+- Exact location of the generated tables and graphs will be printed out in the terminal.
 
 🪄 **Generate (sample) some text from a trained model with:**
 
@@ -93,7 +93,7 @@ For graphical representation of the training results run a following command:
 
 - Argument `--input` is optional.
 
-- Lines modified: 30 and 31, and from 56 to 142.
+- Lines modified: 10, 30 and 31, from 57 to 112.
 
 
               
