@@ -43,9 +43,9 @@ def get_ppl(text: str) -> List[Tuple[str, List[str]]]:
 
 def get_data_frame(dropout: List[str], epochs:List[str], 
                     ppl: Tuple[str, List[str]]) -> pd.DataFrame:
-    """Generate data frame for creating tables and graphs:
+    """Generate data frame for creating tables and charts:
         :param dropout: List containing dropout values to define columns.
-        :param epochs: List containong the epochs to define rows.
+        :param epochs: List containing the epochs to define rows.
         :param ppl: Tuple containing name of the perplexity and its corresponding values.
         :return: Data frame for each of the perplexities.
     """
@@ -68,7 +68,7 @@ def save_charts(chart:str, table: pd.DataFrame, ppl: Tuple[str, List[str]]):
     """Generate line chart for train. and valid. perplexity.
         :param chart: Path to save a line chart as string.
         :param table: Data frame for the corresponding perplexity.
-        :param ppl: uple containing name of the perplexity and its corresponding values.
+        :param ppl: Tuple containing name of the perplexity and its corresponding values.
     """
     sns.set(font_scale=1.5, style="darkgrid")
     # Values are actually str, converted to numbers with pd.to_numeric.
