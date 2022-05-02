@@ -99,7 +99,7 @@ For graphical representation of the training results run a following command:
 
 - `Temperature` is set to **0.6**, gives more readable output with the settings used. Also, the output    has more meaning if the combination of some frequent words is provided.
 
-- Lines modified: 30 and 31, from 60 to 92.
+- Lines modified in `examples/word_language_model/generate.py`: 30 and 31, from 60 to 92.
 
 
               
