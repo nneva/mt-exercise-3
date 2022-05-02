@@ -81,19 +81,25 @@ For graphical representation of the training results run a following command:
 
 - Model chosen for generation has the lowest `test perplexity` among the models trained, **62.89**, and is trained with the `dropout` value of **0.35**.
 
+- Location of the generated file is:  **samples/sample.txt**.
+
 🧑‍🤝‍🧑 **Clone repository `pytorch/examples`:**
 
     git clone https://github.com/nneva/examples
 
-- **Important:** Place cloned reposotory in the directory `mt-exercise-3`.
+- **Important:** Place cloned repository in the directory `mt-exercise-3`.
 
 📝 **Test command line prompt for text generation with:**
 
-    python examples/word_language_model/generate.py --data data/dorian --words 500 --checkpoint models/model_0_35.pt --seed 1211 --temperature 1.4 --input "< desired input >"
+    ./scripts/test_generate.sh
 
 - Argument `--input` is optional.
 
-- Lines modified: 10, 30 and 31, from 57 to 112.
+- Location of the generated test file is:  **samples/sample_test.txt**.
+
+- `Temperature` is set to **0.6**, gives more readable output with the settings used. Also, the output    has more meaning if the combination of some frequent words is provided.
+
+- Lines modified: 30 and 31, from 60 to 92.
 
 
               
