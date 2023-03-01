@@ -1,4 +1,4 @@
-# MT Exercise 3: Pytorch RNN Language Models
+# Pytorch RNN Language Models
 
 This repository shows how to implement command line input prompt and train Neural Language Models using [Pytorch example code](https://github.com/pytorch/examples/tree/master/word_language_model).
 
