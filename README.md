@@ -1,6 +1,6 @@
 # MT Exercise 3: Pytorch RNN Language Models
 
-This repository shows how to train Neural Language Models using [Pytorch example code](https://github.com/pytorch/examples/tree/master/word_language_model).
+This repository shows how to implement command line input prompt and train Neural Language Models using [Pytorch example code](https://github.com/pytorch/examples/tree/master/word_language_model).
 
 # Requirements
 
@@ -15,8 +15,8 @@ This repository shows how to train Neural Language Models using [Pytorch example
 
 🧑‍🤝‍🧑 **Clone this repository in the desired place:**
 
-    git clone https://github.com/nneva/mt-exercise-3
-    cd mt-exercise-3
+    git clone https://github.com/nneva/prompt-rnn-lm
+    cd prompt-rnn-lm
 
 💻 **Create a new virtualenv that uses Python 3.** 
 
@@ -30,78 +30,77 @@ Please make sure to run this command outside of any virtual Python environment:
 
     ./scripts/install_packages.sh
 
-If needed, run once a following download in `preprocess.py`
-
-    nltk.download('punkt')
 
 ⬇️ **Download and preprocess data:**
 
+To download data you can use command below.
+
     ./scripts/download_data.sh
 
-- Data set used was downloaded from the following link: https://www.gutenberg.org/cache/epub/174/pg174.txt .
+- Example data set used for this project was downloaded from [Project Gutenberg](https://www.gutenberg.org/cache/epub/174/pg174.txt ). 
 
-- Script `preprocess_raw.py` is slightly adjusted to match formatting of the new data set.
-
-- Tokenization in `preprocess.py` is adjusted to match tokenization of the example file(s).
+- You shoud preprocess your data with script `preprocess_raw.py` and tokennize it with script `preprocess.py`
 
 
 🤸 **Train a model:**
 
-    ./scripts/train.sh | tee -a infographic/output.txt
+To train your model execute the following command:
+
+    ./scripts/train.sh 
 
  - The training process can be interrupted at any time, and the best checkpoint will always be saved.
 
-- There is no output during the training. The output will be displayed at the end of the training for each model, and saved in file **infographic/output.txt** for all models.
-
 - Approximate (average) time needed for the training of each model is 20 minutes with 4 threads.
 
-- Initilize the training manually for each model using paramateres listed below, and rename model accordingly.
+Recommended hyperparameters settings:
 
-- `Dropout` values used for the training are: **0.0**, **0.175**, **0.35**, **0.525**, **0.7**, **0.875**. 
+- Number of `epochs` **40**. 
 
-    **Important:** Models should be trained ordered by dropout value, from lowest to highest.
-
-- Number of `epochs` for each model is **40**. 
-
-- `Learning rate` used is default: **20.0**.
+- `Learning rate` default: **20.0**.
 
 - Other settings: `word embeddings size` and `number of hidden units per layer` are set to **200**.
 
-📈 **Graphical representation of results:**
 
-For graphical representation of the training results run a following command:
+# Inference
+You can use one of the pretrained models to generate text. To do so:
 
-    ./scripts/visualize.sh
-
-- Exact location of the generated tables and graphs will be printed out in the terminal.
-
-🪄 **Generate (sample) some text from a trained model with:**
-
-    ./scripts/generate.sh
-
-- Model chosen for generation has the lowest `test perplexity` among the models trained, **62.89**, and is trained with the `dropout` value of **0.35**.
-
-- Location of the generated file is:  **samples/sample.txt**.
-
-🧑‍🤝‍🧑 **Clone repository `pytorch/examples`:**
+🧑‍🤝‍🧑 **Clone repository**
 
     git clone https://github.com/nneva/examples
 
-- **Important:** Place cloned repository in the directory `mt-exercise-3`.
 
-📝 **Test command line prompt for text generation with:**
+and run script. 
 
-    ./scripts/test_generate.sh
-
-- Argument `--input` is optional.
-
-- Location of the generated test file is:  **samples/sample_test.txt**.
-
-- `Temperature` is set to **0.6**, gives more readable output with the settings used. Also, the output    has more meaning if the combination of some frequent words is provided.
-
-- Lines modified in `examples/word_language_model/generate.py`: 30 and 31, from 60 to 92.
+    ./scripts/generate.sh
 
 
+File with generated text will be saved at  **samples/sample.txt**.
+
+
+
+
+📝 **Test command line prompt for text generation**
+
+
+This time make sure that the script `generate.sh` has flag `--input True`.
+
+```bash
+    (cd $examples/word_language_model &&
+    CUDA_VISIBLE_DEVICES=$device OMP_NUM_THREADS=$num_threads python generate.py \
+        --data $data/dorian \
+        --words 500 \
+        --checkpoint $models/model_0_35.pt \
+        --outf $samples/sample.txt \
+        --temperature 0.6 \
+        --input True
+    )
+```
+
+After running the script in your command line you will see the following message:
+
+    Please specifiy words to start generation from:
+
+You can now type the words of your choice and the generation will continue from there.
               
 
 
